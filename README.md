@@ -1,2 +1,0 @@
-# ProjectEcom
-Codeigniter HMVC
